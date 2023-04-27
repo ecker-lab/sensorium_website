@@ -14,7 +14,7 @@ layout: default
 
 Understanding how the brain processes visual input is a long standing goal in neuroscience. To solve this question in a quantitative, testable, and reproducible way, accurate predictive models of neural population responses to natural stimuli are crucial. However, even today's most advanced models of visual cortex are only able to account for a fraction of the observed neuronal activity. Furthermore, because there is an abundance of models and metrics, but no widely-used reference dataset, it is challenging to compare models on equal ground. This makes it difficult to determine the current state-of-the-art model.
 
-<img src="../assets/images/sensorium_2023_schematic.png" alt="SENSORIUM 2023 schematic">
+<img src="../assets/images/sensorium_2023_schematic-01.png" alt="SENSORIUM 2023 schematic">
 
 ## The SENSORIUM 2023 Competition
 
