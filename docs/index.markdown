@@ -95,16 +95,16 @@ To ensure you have a swift and easy start participating in our competition we pr
 ## FAQ
 
 **Q: What is this competition about?**  
-We are looking for the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.
+We are looking for the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to videos.
 
 **Q: Why are neural predictive models interesting?**  
 Accurate models of neuronal activity can serve as phenomenological digital twins for the visual cortex, allowing computational neuroscientists to derive new hypotheses about biological vision “in silico”, enabling systems neuroscientists to test them “in vivo”. On top of that, these models are relevant to machine learning researchers who use them to bridge the gap between biological and machine vision.
 
-**Q: Where will the results be presented?**  
+<!-- **Q: Where will the results be presented?**  
 We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a virtual workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
 
 **Q: Are there plans for future data and competition releases?**  
-We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond.
+We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond. -->
 
 ## Previous competitions
 
