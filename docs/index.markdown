@@ -41,7 +41,7 @@ We think that from a biological perspective it is crucial to have not only good 
 **Let's predict how the brain processes what we see!**
 
 ## Timeline
-* May 22    Full website and starting kit release.
+* May 25    Full website and starting kit release.
 * June 01     Start of the competition and data release.
 * Sept 22    Submission deadline.
 * Sept 29    Validation of all submitted scores completed. Final test set scores released. Rank 1-3 in
