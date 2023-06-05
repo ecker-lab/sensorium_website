@@ -106,9 +106,10 @@ We are happy to announce that we are part of the NeurIPS 2023 competition track!
 **Q: Are there plans for future data and competition releases?**  
 We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond. -->
 
-## Previous competitions
+<!-- ## Previous competitions -->
 
-Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://sensorium2022.net/home). The submissions to both competition tracks are still open, and will continue to stay open, so that the state-of-the-art can be improved continuously.
+<!-- Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://sensorium2022.net/home). The submissions to both competition tracks are still open, and will continue to stay open, so that the state-of-the-art can be improved continuously. -->
+
 
 ## Organizers
 
