@@ -121,4 +121,4 @@ Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://
 
 ## Contact
 
-Have more questions? Join our [slack workspace](https://join.slack.com/t/sensorium-competition/shared_invite/zt-1bep6o4np-tiO93ekNDdo63UZcRFaCrw)! Or contact us at [contact@sensorium2023.net](mailto:contact@sensorium2023.net).
+Have more questions? Join our [slack workspace](https://join.slack.com/t/sensorium-competition/shared_invite/zt-1bep6o4np-tiO93ekNDdo63UZcRFaCrw)! Or contact us at [contact@sensorium-competition.net](mailto:contact@sensorium-competition.net).
