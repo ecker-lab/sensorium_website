@@ -116,9 +116,9 @@ We intend to start the competition this year at NeurIPS, but keep the website op
 | Polina Turishcheva *(University of Göttingen)* | Eric Y. Wang *(Baylor College of Medicine)* |
 | Konstantin F. Willeke *(University of Tübingen)* | Paul G. Fahey *(Baylor College of Medicine)* |
 | Laura Hansel *(University of Göttingen)* | Michaela Vystrčilová *(University of Göttingen)* |
-| Zhiwei Ding *(Baylor College of Medicine)* | Kayla Ponder *(Baylor College of Medicine)* |
-| Alexander Ecker *(University of Göttingen)* | Andreas S. Tolias *(Baylor College of Medicine)* |
-| Fabian H. Sinz *(University of Göttingen)* ||
+| Mohammad Bashiri *(University of Tübingen)* | Zhiwei Ding *(Baylor College of Medicine)* |
+| Kayla Ponder *(Baylor College of Medicine)* | Alexander Ecker *(University of Göttingen)* |
+| Andreas S. Tolias *(Baylor College of Medicine)* | Fabian H. Sinz *(University of Göttingen)* |
 
 ## Contact
 
