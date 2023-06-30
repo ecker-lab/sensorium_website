@@ -100,15 +100,26 @@ We are looking for the best neural predictive model that can predict the activit
 **Q: Why are neural predictive models interesting?**  
 Accurate models of neuronal activity can serve as phenomenological digital twins for the visual cortex, allowing computational neuroscientists to derive new hypotheses about biological vision “in silico”, enabling systems neuroscientists to test them “in vivo”. On top of that, these models are relevant to machine learning researchers who use them to bridge the gap between biological and machine vision.
 
-<!-- **Q: Where will the results be presented?**  
+**Q: Where will the results be presented?**  
 We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a virtual workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
 
 **Q: Are there plans for future data and competition releases?**  
-We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond. -->
+We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond.
 
 <!-- ## Previous competitions -->
 
 <!-- Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://sensorium2022.net/home). The submissions to both competition tracks are still open, and will continue to stay open, so that the state-of-the-art can be improved continuously. -->
+
+## Announcements
+
+**2023-06-22 Data release**
+
+Unfortunately our data release for the Sensorium 2023 competition accidentally included the secret test set. Although we took the file offline immediately after finding out about it, it is not clear how many people gained access to the dataset. We therefore consider it compromised. To ensure a fair continuation of the competition, we will take the following actions:
+1. We are in the process of collecting a new dataset that will replace the original one.
+2. The current competition on CodaLab will be kept open for development purposes only. We will create a new instance with the new secret test set that will be used to determine the winners of the competition. Any models submitted on the current CodaLab competition will have to be resubmitted on the new one.
+3. Once the new dataset and competition are available, we will make another public announcement to inform all participants about the procedures.
+
+We would like to apologize to all participants for the extra work and hassle this may cause. Thank you to Kaiwen Deng for immediately reporting this issue to us!
 
 
 ## Organizers
