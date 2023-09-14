@@ -74,13 +74,13 @@ To ensure you have a swift and easy start participating in our competition we pr
                                         during registration.
 * **Winning**                         From each team we would take best-performing submission on the
                                         live test set and evaluate these submissions on the final test set.
-                                        The top 3 submissions that outperform both ensembled baselines
+                                        For the main track, the top 3 submissions that outperform the baselines
                                         on the final test set by 23:59 AOE on September 22nd, 2023, will be
-                                        considered for the winning positions. The participants responsible
-                                        for these submissions will receive an email notification and will have 
-                                        until 23:59 AOE on October 13th, 2023, to submit the code for their
-                                        winning entry. In order to qualify, the code should be a self-
-                                        contained Jupyter notebook that reproduces the submitted model 
+                                        considered for the winning positions. For the bonus track, we only determine 
+                                        one winner. The participants responsible for these submissions will receive
+                                        an email notification and will have until 23:59 AOE on October 13th, 2023, to 
+                                        submit the code for their winning entry. In order to qualify, the code should 
+                                        be a self-contained Jupyter notebook that reproduces the submitted model 
                                         predictions.
 * **Evaluation**                     The organizers will have time until 23:59 AOE on October 23rd,
                                         2023, to replicate the submission with the provided code. 
