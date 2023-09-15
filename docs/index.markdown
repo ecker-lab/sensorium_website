@@ -113,6 +113,12 @@ We intend to start the competition this year at NeurIPS, but keep the website op
 
 ## Announcements
 
+**2023-07-21 New dataset**
+
+Dear participants, \\
+as promised, we have updated the dataset - you can access the new dataset here - [https://gin.g-node.org/pollytur/sensorium_2023_dataset](https://gin.g-node.org/pollytur/sensorium_2023_dataset). \\
+The previous dataset stays online and you can use it for the competition as well. We added a new competition to codalab: [Sensorium 2023 - Main Track \[new\]](https://codalab.sensorium-competition.net/competitions/13).
+
 **2023-06-22 Data release**
 
 Unfortunately our data release for the Sensorium 2023 competition accidentally included the secret test set. Although we took the file offline immediately after finding out about it, it is not clear how many people gained access to the dataset. We therefore consider it compromised. To ensure a fair continuation of the competition, we will take the following actions:
