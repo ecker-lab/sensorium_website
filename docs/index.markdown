@@ -113,6 +113,10 @@ We intend to start the competition this year at NeurIPS, but keep the website op
 
 ## Announcements
 
+**2023-09-15 Submission deadline extension**
+
+We decided to extend the competition deadline to Oct. 15. This gives everyone another full month to improve their models or develop new approaches. Happy coding!
+
 **2023-07-21 New dataset**
 
 Dear participants, \\
