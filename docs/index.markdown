@@ -70,24 +70,23 @@ To ensure you have a swift and easy start participating in our competition we pr
                                         models.
 * **Submission deadline**   To be eligible for consideration, submissions must be sent between 
                                         23:59 AOE (anywhere on earth) on June 1st, 2023, and 23:59 AOE on 
-                                        September 22nd, 2023.
+                                        October 15th, 2023.
 * **Valid email**                     Please ensure that your submission includes a valid email address
                                         during registration.
 * **Winning**                         From each team we would take best-performing submission on the
                                         live test set and evaluate these submissions on the final test set.
                                         For the main track, the top 3 submissions that outperform the baselines
-                                        on the final test set by 23:59 AOE on September 22nd, 2023, will be
+                                        on the final test set by 23:59 AOE on October 15th, 2023, will be
                                         considered for the winning positions. For the bonus track, we only determine 
                                         one winner. The participants responsible for these submissions will receive
-                                        an email notification and will have until 23:59 AOE on October 13th, 2023, to 
+                                        an email notification and will have until 23:59 AOE on October 27th, 2023, to 
                                         submit the code for their winning entry. In order to qualify, the code should 
                                         be a self-contained Jupyter notebook that reproduces the submitted model 
                                         predictions.
-* **Evaluation**                     The organizers will have time until 23:59 AOE on October 23rd,
-                                        2023, to replicate the submission with the provided code. 
-                                        If the replication fails, the organizers will reach out to the participant.
-                                        In case of the unsuccessful validation, the team will be disqualified, 
-                                        and the next highest-ranked submission will be considered.
+* **Evaluation**                     After October 27th, the organizers will replicate the submission with the
+                                        provided code. If the replication fails, the organizers will reach out to the
+                                        participant. In case of the unsuccessful validation, the team will be 
+                                        disqualified, and the next highest-ranked submission will be considered.
 * **One entry per day**        Each registered user or team is allowed to submit one entry
                                         per day per competition track.
 * **Organizers**                     Members of the organizing labs are welcome to submit their
