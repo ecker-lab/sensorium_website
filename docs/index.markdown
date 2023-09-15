@@ -101,7 +101,7 @@ We are looking for the best neural predictive model that can predict the activit
 Accurate models of neuronal activity can serve as phenomenological digital twins for the visual cortex, allowing computational neuroscientists to derive new hypotheses about biological vision “in silico”, enabling systems neuroscientists to test them “in vivo”. On top of that, these models are relevant to machine learning researchers who use them to bridge the gap between biological and machine vision.
 
 **Q: Where will the results be presented?**  
-We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a virtual workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
+We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
 
 **Q: Are there plans for future data and competition releases?**  
 We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond.
@@ -115,6 +115,18 @@ We intend to start the competition this year at NeurIPS, but keep the website op
 **2023-09-15 Submission deadline extension**
 
 We decided to extend the competition deadline to Oct. 15. This gives everyone another full month to improve their models or develop new approaches. Happy coding!
+
+**2023-09-15 Problems**
+
+We’ve recently discovered a few issues with the competition code, which we want to communicate for transparency:
+1. The official data loader uses non-standard normalization for neuronal responses. Since the evaluation code also uses this data loader, please use the official data loader in your code for consistency (details below).
+2. The evaluation of the avg. trial correlation metric was not computed correctly on the CodaLab competition page. We have updated the evaluation script and will re-evaluate your submissions. There is no action necessary by you.
+3. The bonus track submission system was broken due to file size restrictions. The workaround is to upload the prediction for the live and final test sets separately. We have updated the [documentation](https://github.com/ecker-lab/sensorium_2023/#submission-comments) to reflect this.
+
+Details on normalization: We recently discovered a minor bug in our data export code that causes the neuronal response to be normalized per video frame instead of by one single number for each neuron when using the officially provided data loader. Since the evaluation code also uses that data loader, the code – albeit using a non-standard normalization – is self-consistent. However, if you are using a custom data loader, it might result in  unexpected results. Thus we recommend using the official data loader.
+
+We tested how much prediction results are affected by using the non-standard normalization compared to when normalizing neurons by a single number and found the differences to be minor. Therefore we decided to not change anything for now and conclude the competition with this non-standard normalization. We apologize for any inconvenience this might have caused. 
+
 
 **2023-07-21 New dataset**
 
