@@ -5,6 +5,12 @@
 layout: default
 
 ---
+<div style="background-color: #ffcc00 ; padding: 10px; border: 1px solid black; font-size: 1rem; text-align: left;"> 
+    Good news! <br/>
+    We extended the submission deadline to Oct. 15!
+    Check our updated <a href="{{ "#timeline" | relative_url }}">timeline</a>.
+</div>
+<br/>
 
 # SENSORIUM 2023
 
