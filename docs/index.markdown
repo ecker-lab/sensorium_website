@@ -6,7 +6,11 @@ layout: default
 
 ---
 <div style="background-color: #ffcc00 ; padding: 10px; border: 1px solid black; font-size: 1rem; text-align: left;"> 
-    Competition submission is closed, official winners will be announced soon! Ongoing benchmark submission will reopen on November 1st.
+    The Sensorium 2023 competition is over. Here are the winning teams: <br/>
+&nbsp;&nbsp;🥇IRomul <br/>
+&nbsp;&nbsp;🥈YuZhu <br/>
+&nbsp;&nbsp;🥉dunedin <br/>
+All winners used custom architectures. To learn more about their approaches, join our in-person workshop at NeurIPS on Friday, Dec 15, 2023. 🗓️
 </div>
 <br/>
 
