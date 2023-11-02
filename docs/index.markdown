@@ -100,25 +100,30 @@ To ensure you have a swift and easy start participating in our competition we pr
 * **Organizers**                     Members of the organizing labs are welcome to submit their
                                         work, but they will not be considered as winners.
 
-## FAQ
 
-**Q: What is this competition about?**  
-We are looking for the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to videos.
+## Call for Posters
 
-**Q: Why are neural predictive models interesting?**  
-Accurate models of neuronal activity can serve as phenomenological digital twins for the visual cortex, allowing computational neuroscientists to derive new hypotheses about biological vision “in silico”, enabling systems neuroscientists to test them “in vivo”. On top of that, these models are relevant to machine learning researchers who use them to bridge the gap between biological and machine vision.
+We would like to invite you to submit a poster for our NeurIPS 2023 "Sensorium" competition workshop on December 15th!
+We are very interested to talk to everyone from the machine learning and computational neuroscience communities and discuss how to improve brain modelling. The topics include (but not limited to):
+- Novel architectures for brain modelling
+- Increasing model interpretability for successful neural predictive models
+- Strategies and constraints for extracting biological insights from deep learning models
+- Metric and test set design for evaluating models performance 
 
-**Q: Where will the results be presented?**  
-We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
+To present a poster, please submit an abstract (max. 250 words, plus names and afiliations) to sensorium.codalab@gmail.com as pdf before **Nov 23, 23:59, Anywhere on Earth**. Abstracts will be reviewed by workshop organizers for topic relevancy. 
 
-**Q: Are there plans for future data and competition releases?**  
-We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond.
-
-<!-- ## Previous competitions -->
-
-<!-- Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://sensorium2022.net/home). The submissions to both competition tracks are still open, and will continue to stay open, so that the state-of-the-art can be improved continuously. -->
 
 ## Announcements
+
+**2023-11-02 NeurIPS workshop**
+
+We are happy to announce that we are hosting an in-person workshop at NeurIPS on Friday, Dec 15, 2023! <br/>
+The workshop includes three keynote speakers and a poster session. Meet our brilliant keynotes speakers:  
+- SueYeon Chung
+- Daniel L. K. Yamins
+- Colin Conwell
+
+See [Call for Posters](#call-for-posters) above for more information on how to participate in the poster session!
 
 **2023-09-15 Submission deadline extension**
 
@@ -150,6 +155,25 @@ Unfortunately our data release for the Sensorium 2023 competition accidentally i
 3. Once the new dataset and competition are available, we will make another public announcement to inform all participants about the procedures.
 
 We would like to apologize to all participants for the extra work and hassle this may cause. Thank you to Kaiwen Deng for immediately reporting this issue to us!
+
+
+## FAQ
+
+**Q: What is this competition about?**  
+We are looking for the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to videos.
+
+**Q: Why are neural predictive models interesting?**  
+Accurate models of neuronal activity can serve as phenomenological digital twins for the visual cortex, allowing computational neuroscientists to derive new hypotheses about biological vision “in silico”, enabling systems neuroscientists to test them “in vivo”. On top of that, these models are relevant to machine learning researchers who use them to bridge the gap between biological and machine vision.
+
+**Q: Where will the results be presented?**  
+We are happy to announce that we are part of the NeurIPS 2023 competition track! We’ll host a workshop at NeurIPS in December 2023 to present the winners and overall results of this competition.
+
+**Q: Are there plans for future data and competition releases?**  
+We intend to start the competition this year at NeurIPS, but keep the website open for new challenges to make this website a valuable resource for data driven neural system identification models in mouse visual cortex and beyond.
+
+<!-- ## Previous competitions -->
+
+<!-- Feel free to also check out our competition from 2022: [SENSORIUM 2022](https://sensorium2022.net/home). The submissions to both competition tracks are still open, and will continue to stay open, so that the state-of-the-art can be improved continuously. -->
 
 
 ## Organizers
